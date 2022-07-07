@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Juank544's Github stats](https://github-readme-stats.vercel.app/api?username=Juank544&show_icons=true&count_private=true&theme=algolia)
+
 <!--
 **Juank544/Juank544** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
