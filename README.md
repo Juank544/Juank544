@@ -1,11 +1,12 @@
 <div>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&duration=4000&pause=1000&vCenter=true&random=false&height=100&lines=Hola!;Hello!;Hallo!;Ciao!;Salut!" alt="Typing SVG" /></a>
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="250" align="right">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="30%" align="right">
 </div>
 
 
 I'm Juan, Software Engineer developing from the backend side learning and improving with each commit and course I do.
 - Bachelor's degree in computer science
+- F1 fan 🏎️🏁
 
 
 ## Tech Stack
@@ -42,6 +43,7 @@ I'm Juan, Software Engineer developing from the backend side learning and improv
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png" alt="Jenkins" title="Jenkins"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="IntelliJ" title="IntelliJ"/>
 </div>
+
 
 ## My Stats
 <div>
