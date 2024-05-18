@@ -4,7 +4,7 @@
 </div>
 
 
-I'm Juan, Software Engineer developing from the backend side learning and improving with each commmit and course I do.
+I'm Juan, Software Engineer developing from the backend side learning and improving with each commit and course I do.
 - Bachelor's degree in computer science
 
 
