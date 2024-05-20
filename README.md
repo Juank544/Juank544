@@ -6,6 +6,7 @@
 
 I'm Juan, Software Engineer developing from the backend side learning and improving with each commit and course I do.
 - Bachelor's degree in computer science
+- I'm currently on the way to get my AWS certification
 - F1 fan 🏎️🏁
 
 
